@@ -1,0 +1,30 @@
+### INICIO ###
+V | WARRIOR | 146 de vida VS Jisoo | MAGICIAN | 181 de vida
+### BATALLA ###
+Turno 1
+V ataca con Sword Slash... Da en el blanco! La vida de Jisoo queda en 156
+Jisoo ataca con Hurricane... Da en el blanco! La vida de V queda en 124
+Turno 2
+V ataca con Fist Punch... Da en el blanco! La vida de Jisoo queda en 138
+Jisoo ataca con Frost Nova... Da en el blanco! La vida de V queda en 114
+Turno 3
+V ataca con Sword Slash... Da en el blanco! La vida de Jisoo queda en 113
+Jisoo ataca con Frost Nova... Falla! La vida de V queda en 114
+Turno 4
+V ataca con Sword Slash... Da en el blanco! La vida de Jisoo queda en 88
+Jisoo ataca con Hurricane... Da en el blanco! La vida de V queda en 92
+Turno 5
+V ataca con Fist Punch... Da en el blanco! La vida de Jisoo queda en 70
+Jisoo ataca con Frost Nova... Falla! La vida de V queda en 92
+Turno 6
+V ataca con Sword Slash... Da en el blanco! La vida de Jisoo queda en 45
+Jisoo ataca con Frost Nova... Falla! La vida de V queda en 92
+Turno 7
+V ataca con Sword Slash... Da en el blanco! La vida de Jisoo queda en 20
+Jisoo ataca con Hurricane... Da en el blanco! La vida de V queda en 70
+Turno 8
+V ataca con Fist Punch... Da en el blanco! La vida de Jisoo queda en 2
+Jisoo ataca con Hurricane... Da en el blanco! La vida de V queda en 48
+Turno 9
+V ataca con Fist Punch... Da en el blanco! La vida de Jisoo queda en -16
+Jisoo ataca con Frost Nova... Da en el blanco! La vida de V queda en 38
